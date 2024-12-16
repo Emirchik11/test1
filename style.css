@@ -1,0 +1,9 @@
+#toggle-block {
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border: 1px solid black;
+}
+.bg-color {
+    background-color: rgba(5, 5, 204, 0.68);
+}
